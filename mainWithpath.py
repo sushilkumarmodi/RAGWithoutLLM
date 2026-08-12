@@ -167,6 +167,6 @@ def main():
 
         search(query, index, chunks)
 
-
+# to run the script directly
 if __name__ == "__main__":
     main()
